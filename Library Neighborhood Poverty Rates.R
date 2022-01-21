@@ -3,8 +3,9 @@
 #       libraries in higher-poverty areas. Goal of this project is to
 #       use US Census American Community Survey poverty data at the tract
 #       level along with an adjustment for cost of living using the
-#       California Poverty Measure (PPIC 2020?) to calculate the level of
-#       poverty in each library service area
+#       California Poverty Measure (PPIC 2021)
+#       (https://www.ppic.org/wp-content/uploads/JTF_PovertyJTF.pdf)
+#       to calculate the level of poverty in each library service area
 #
 #     By Patrick Rogers, California Research Bureau
 #       Sept 2021
